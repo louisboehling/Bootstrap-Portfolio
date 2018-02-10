@@ -60,6 +60,8 @@ body {
 .pageName {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 32px;
+    font-weight: bold;
+    color: #4aaaa5;
     width: 100%;
     border-bottom-style: solid;
     border-width: 3px;
@@ -70,6 +72,8 @@ body {
 .connectWithMe {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 24px;
+    font-weight: bold;
+    color: #4aaaa5;
     width: 100%;
     border-bottom-style: solid;
     border-width: 3px;
